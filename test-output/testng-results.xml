@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-12T19:30:31 CDT" name="Default suite" finished-at="2023-03-12T19:30:36 CDT" duration-ms="4733">
+    <groups>
+    </groups>
+    <test started-at="2023-03-12T19:30:31 CDT" name="Default test" finished-at="2023-03-12T19:30:36 CDT" duration-ms="4733">
+      <class name="DiffrentRequestBodyTest">
+        <test-method signature="externalJSONFileRequest()[pri:0, instance:DiffrentRequestBodyTest@6b26e945]" started-at="2023-03-12T19:30:31 CDT" name="externalJSONFileRequest" finished-at="2023-03-12T19:30:34 CDT" duration-ms="2794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- externalJSONFileRequest -->
+        <test-method signature="hashmapRequest()[pri:0, instance:DiffrentRequestBodyTest@6b26e945]" started-at="2023-03-12T19:30:34 CDT" name="hashmapRequest" finished-at="2023-03-12T19:30:35 CDT" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hashmapRequest -->
+        <test-method signature="jsonRequest()[pri:0, instance:DiffrentRequestBodyTest@6b26e945]" started-at="2023-03-12T19:30:35 CDT" name="jsonRequest" finished-at="2023-03-12T19:30:35 CDT" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonRequest -->
+        <test-method signature="pojoRequest()[pri:0, instance:DiffrentRequestBodyTest@6b26e945]" started-at="2023-03-12T19:30:35 CDT" name="pojoRequest" finished-at="2023-03-12T19:30:36 CDT" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pojoRequest -->
+      </class> <!-- DiffrentRequestBodyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
